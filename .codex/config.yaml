@@ -1,0 +1,15 @@
+mcpServers:
+  playwright:
+    command: npx
+    args:
+      - "-y"
+      - "@anthropic/mcp-server-playwright"
+
+skills:
+  - name: ui-review
+    command: node skills/ui-reviewer.js
+    description: >
+      扫描项目前端文件，检查样式、动画、响应式、可访问性和组件使用，
+      输出 JSON 报告。报告中每条问题包含文件、问题描述和修改建议。
+
+

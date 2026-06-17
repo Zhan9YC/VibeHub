@@ -1,0 +1,85 @@
+{
+  "firstAppPath": "/apps/679aba77-b59e-4a66-8be7-11d42a7cc613",
+  "manifest": [
+    {
+      "slug": "home",
+      "route": "/",
+      "viewport": "mobile",
+      "url": "http://localhost:3000/",
+      "title": "VibeHub",
+      "h1": "VibeHub"
+    },
+    {
+      "slug": "home",
+      "route": "/",
+      "viewport": "desktop",
+      "url": "http://localhost:3000/",
+      "title": "VibeHub",
+      "h1": "VibeHub"
+    },
+    {
+      "slug": "login",
+      "route": "/login",
+      "viewport": "mobile",
+      "url": "http://localhost:3000/login",
+      "title": "VibeHub",
+      "h1": "登录 VibeHub"
+    },
+    {
+      "slug": "login",
+      "route": "/login",
+      "viewport": "desktop",
+      "url": "http://localhost:3000/login",
+      "title": "VibeHub",
+      "h1": "登录 VibeHub"
+    },
+    {
+      "slug": "register",
+      "route": "/register",
+      "viewport": "mobile",
+      "url": "http://localhost:3000/register",
+      "title": "VibeHub",
+      "h1": "创建账号"
+    },
+    {
+      "slug": "register",
+      "route": "/register",
+      "viewport": "desktop",
+      "url": "http://localhost:3000/register",
+      "title": "VibeHub",
+      "h1": "创建账号"
+    },
+    {
+      "slug": "app-detail",
+      "route": "/apps/679aba77-b59e-4a66-8be7-11d42a7cc613",
+      "viewport": "mobile",
+      "url": "http://localhost:3000/apps/679aba77-b59e-4a66-8be7-11d42a7cc613",
+      "title": "VibeHub",
+      "h1": "大模型资讯"
+    },
+    {
+      "slug": "app-detail",
+      "route": "/apps/679aba77-b59e-4a66-8be7-11d42a7cc613",
+      "viewport": "desktop",
+      "url": "http://localhost:3000/apps/679aba77-b59e-4a66-8be7-11d42a7cc613",
+      "title": "VibeHub",
+      "h1": "大模型资讯"
+    },
+    {
+      "slug": "create",
+      "route": "/create",
+      "viewport": "mobile",
+      "url": "http://localhost:3000/login?redirect=%2Fcreate",
+      "title": "VibeHub",
+      "h1": "登录 VibeHub"
+    },
+    {
+      "slug": "create",
+      "route": "/create",
+      "viewport": "desktop",
+      "url": "http://localhost:3000/login?redirect=%2Fcreate",
+      "title": "VibeHub",
+      "h1": "登录 VibeHub"
+    }
+  ]
+}
